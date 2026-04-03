@@ -24,18 +24,13 @@ Hello, I'm Krish Vinod<br>Full Stack & Backend Developer
   
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=krishv24&theme=dark" 
-       alt="Krish's GitHub Streak" 
-       width="48%" 
-       style="margin-right: 10px;"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=krishv24&theme=tokyonight" 
+       width="48%" />
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishv24&layout=compact&langs_count=5&theme=dark&hide_border=true" 
-       alt="Top Languages" 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishv24&layout=compact&theme=tokyonight" 
        width="48%"/>
 
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=krishv24&color=blueviolet" 
-       alt="Profile Views" 
-       style="margin-top: 15px;"/>
+  <img src="https://komarev.com/ghpvc/?username=krishv24&color=blueviolet"/>
 </div>
 ---
